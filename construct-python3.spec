@@ -2,7 +2,7 @@
 
 Summary:        A powerful declarative parser/builder for binary data
 Name:           construct-python3
-Version:        2.9.51
+Version:        2.10.54
 Release:        1%{?dist}
 License:        MIT
 URL:            http://construct.readthedocs.org
